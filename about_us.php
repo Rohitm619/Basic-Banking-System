@@ -31,7 +31,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed fixed-top"
         style="font-family:candara; font-size:18px; box-shadow: 0px 0px 10px 0px black;">
         <div class="container-fluid">
-            <a href="home.php"><img src="statics\logo.png" alt=""
+            <a href="index.php"><img src="statics\logo.png" alt=""
                     style="height: 80px; margin-left:25px; margin-top:10px;"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -43,7 +43,7 @@
             <b>
                 <ul class="navbar-nav ">
                     <li class="nav-item nav-links" style="margin-left:15px;">
-                        <a class="nav-link text-nowrap" aria-current="page" href="home.php">Home</a>
+                        <a class="nav-link text-nowrap" aria-current="page" href="index.php">Home</a>
                     </li>
                     <li class="nav-item" style="margin-left:15px; ">
                         <a class="nav-link text-nowrap" href="send_money.php">Send Money</a>

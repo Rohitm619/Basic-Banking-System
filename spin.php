@@ -17,8 +17,17 @@
     background: rgba(0,0,0,0.8) center no-repeat;
     text-align:center;
     "><h1 style="color:white; margin-top:25%;"><i class="fa fa-refresh fa-circle-notch fa-spin" aria-hidden="true"></i>
-</h1></i>
+</h1>
 </div>
+
+<?php 
+
+$servername = "localhost";
+    $username = "root";
+    $password = "";
+    $database = "dbrohit";
+
+?>
 
 
 <script>
