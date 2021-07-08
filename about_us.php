@@ -52,6 +52,9 @@
                         <a class="nav-link text-nowrap" href="all_cust.php">View All Customers</a>
                     </li>
                     <li class="nav-item" style="margin-left:15px;">
+                        <a class="nav-link text-nowrap" href="transactions.php">Transactions</a>
+                    </li>
+                    <li class="nav-item" style="margin-left:15px;">
                         <a class="nav-link text-nowrap" href="contact_us.php">Contact Us</a>
                     </li>
                     <li class="nav-item" style="margin-left:15px; margin-right:75px;">

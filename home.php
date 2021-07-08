@@ -69,6 +69,9 @@
                         <a class="nav-link text-nowrap" href="all_cust.php">View All Customers</a>
                     </li>
                     <li class="nav-item" style="margin-left:15px;">
+                        <a class="nav-link text-nowrap" href="transactions.php">Transactions</a>
+                    </li>
+                    <li class="nav-item" style="margin-left:15px;">
                         <a class="nav-link text-nowrap" href="contact_us.php">Contact Us</a>
                     </li>
                     <li class="nav-item" style="margin-left:15px; margin-right:75px;">
@@ -117,7 +120,7 @@
                             <i class="fas fa-comments-dollar fa-7x"></i><br><br>
                             <a href="send_money.php"><button type="button" class="btn btn-outline-light mybtn">Transfer
                                     Money</button></a><br>
-                            <h6>Here, you can watch every customer of the bank.</h6>
+                            <h6>Here, you can send money from your account.</h6>
                         </div>
                     </div>
                     <div class="col-lg">
@@ -126,7 +129,7 @@
                             <i class="fas fa-coins fa-7x"></i><br><br>
                             <a href="check_blc.php"><button type="button" class="btn btn-outline-light mybtn">Check
                                     Balance</button></a><br>
-                            <h6>Here, you can watch every customer of the bank.</h6>
+                            <h6>Here, you can check the remaining balance in your account.</h6>
                         </div>
                     </div>
                 </div>
