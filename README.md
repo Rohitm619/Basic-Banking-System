@@ -1,8 +1,6 @@
 # Basic-Banking-System
 
-## Deployed Website Link -> <a href="http://rohitsparksbank.great-site.net/" target="_blank">http://rohitsparksbank.great-site.net/<a/>
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+## Deployed Website Link -> http://rohitsparksbank.great-site.net/
   
 1. Fork the respo (Give ⭐ incase you like the work)
 2. Clone the repo in your local machine.
